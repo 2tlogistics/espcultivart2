@@ -1364,7 +1364,14 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/machu-238x180.jpg");
+  background-image: url("../../../assets/images/background13.jpg");
+}
+.cid-ulsOduKfjH .mbr-section-title {
+  color: #ffffff;
+}
+.cid-ulsOduKfjH .mbr-text,
+.cid-ulsOduKfjH .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-usRjcUV07V {
   padding-top: 0rem;
@@ -1667,6 +1674,7 @@ a {
 }
 .cid-usR6gvwwZY .mbr-section-title {
   color: #a0e1e1;
+  text-align: left;
 }
 .cid-usR6gvwwZY .card-text,
 .cid-usR6gvwwZY .item .mbr-section-btn {
